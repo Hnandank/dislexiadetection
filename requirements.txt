@@ -6,7 +6,6 @@ opencv-python-headless
 matplotlib
 pandas
 Pillow
-numpy
 requests
 scikit-image
 scikit-learn
