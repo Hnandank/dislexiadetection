@@ -12,3 +12,6 @@ scikit-learn
 imageio
 scipy
 # pycocotools @ git+https://github.com/philferriere/cocoapi.git@2929bd2ef6b451054755dfd7ceb09278f935f7ad#subdirectory=PythonAPI
+numpy==1.19.2
+six==1.15.0
+typing-extensions==3.7.4
